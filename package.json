@@ -1,0 +1,19 @@
+{
+  "name": "capture-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.8.2",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0",
+    "request": "^2.88.2",
+    "rimraf": "^3.0.2",
+    "sanitize-filename": "^1.6.3"
+  }
+}
